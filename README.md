@@ -33,7 +33,7 @@ Sinta-se livre para dar dicas ou comentários, estou sempre aberto a aprender e 
 
 
 [twitter]: https://twitter.com/Antoniocruzds
-[instagram]: https://instagram.com/Antoniocruzds
+[instagram]: https://instagram.com/Antoniocruz.ds
 [linkedin]: https://linkedin.com/in/antoniocruzds
 
 ---
