@@ -1,6 +1,6 @@
 ## <p align="center">*OI, PODE ME CHAMAR DE NETO. 👋*</p>
 <p align="center">
-Um rapaz aprendendo e apaixonado pelo mundo da Ciência de Dados. 
+Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados. 
 Sinta-se livre para dar dicas ou comentários, estou sempre aberto a aprender e melhorar mais e mais a cada dia;</p>
 
 - 💻 Aprendiz de Data Science;
@@ -19,3 +19,22 @@ Sinta-se livre para dar dicas ou comentários, estou sempre aberto a aprender e 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ---
+### *Meus Projetos:*
+- Análise de Dados -> https://github.com/antoniocruzds/Data-Analysis
+- Web Scraping -> https://github.com/antoniocruzds/Web-Scraping
+- Machine Learning -> https://github.com/antoniocruzds/Machine-Learning
+
+### *Conecte-se comigo:*
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[twitter]: https://twitter.com/Antoniocruzds
+[instagram]: https://instagram.com/Antoniocruzds
+[linkedin]: https://linkedin.com/in/antoniocruzds
+
+---
+### <p align="center">*OBRIGADO PELA VISITA!*</p>
