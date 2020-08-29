@@ -5,7 +5,7 @@ Sinta-se livre para dar dicas ou comentários, estou sempre aberto a aprender e 
 
 - 💻 Aprendiz de Data Science;
 - 📚 Sempre buscando conhecimento;
-- ☕ apaixonado por Café e meu gato;
+- ☕ Apaixonado por Café e meu gato;
 - 📋 Voluntário no ensino de Programação;
 - 🎓 Graduando em Ciência, Tecnologia, e Inovação (UFBA);
 
