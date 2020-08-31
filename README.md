@@ -20,6 +20,7 @@ Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ---
+<br>
  ### <p align="center">*Meus Projetos:*<p/>
  - Análise de Dados -> https://github.com/antoniocruzds/Data-Analysis
  - Web Scraping -> https://github.com/antoniocruzds/Web-Scraping
