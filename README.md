@@ -28,7 +28,7 @@ Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=antoniocruzds&show_icons=true" alt="blurred-machine"/>
+<img src="https://github-readme-stats.vercel.app/api?username=antoniocruzds&show_icons=true" alt="antoniocruzds"/>
 </p>
 
 ### *Conecte-se comigo:*
