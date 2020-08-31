@@ -28,13 +28,9 @@ Sinta-se livre para dar dicas ou comentários, estou sempre aberto a aprender e 
 
 ---
 
-<br>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=antoniocruzds&show_icons=true" alt="blurred-machine"/>
 </p>
-
-<br>
 
 ### *Conecte-se comigo:*
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -51,4 +47,4 @@ Sinta-se livre para dar dicas ou comentários, estou sempre aberto a aprender e 
 ---
 
 *<p align="center">Por favor, sinta-se livre para clonar projetos e levantar problemas se você acha que algo poderia ser melhor.</p>*
-### <p align="center">-*OBRIGADO PELA VISITA!*-</p>
+### <p align="center">- - - - - *OBRIGADO PELA VISITA!* - - - - -</p>
