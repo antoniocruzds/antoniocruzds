@@ -33,13 +33,11 @@ Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</
 <img src="https://github-readme-stats.vercel.app/api?username=antoniocruzds&show_icons=true" alt="antoniocruzds"/>
 </p>
 
-### *Conecte-se comigo:*
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 [twitter]: https://twitter.com/Antoniocruzds
 [instagram]: https://instagram.com/Antoniocruz.ds
