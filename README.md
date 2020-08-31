@@ -6,8 +6,9 @@ Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</
 
 - 💻 Aprendiz de Data Science;
 - 📚 Sempre buscando conhecimento;
-- ☕ Apaixonado por Café e meu gato;
+- ☕ Apaixonado por Café e animais;
 - 📋 Voluntário no ensino de Programação;
+- 💬 Pergunte-me sobre qualquer coisa que você quiser!
 - 🎓 Graduando em Ciência, Tecnologia, e Inovação (UFBA);
 
 ### *Languages and Tools:*
@@ -20,7 +21,6 @@ Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ---
-<br>
 
  ### <p align="center">*Meus Projetos:*<p/>
  - Análise de Dados -> https://github.com/antoniocruzds/Data-Analysis
