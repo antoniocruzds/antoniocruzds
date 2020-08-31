@@ -3,6 +3,8 @@
 Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados. 
 Sinta-se livre para dar dicas ou comentários, estou sempre aberto a aprender e melhorar mais e mais a cada dia;</p>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360px" />
+
 - 💻 Aprendiz de Data Science;
 - 📚 Sempre buscando conhecimento;
 - ☕ Apaixonado por Café e meu gato;
@@ -19,10 +21,10 @@ Sinta-se livre para dar dicas ou comentários, estou sempre aberto a aprender e 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ---
-### *Meus Projetos:*
-- Análise de Dados -> https://github.com/antoniocruzds/Data-Analysis
-- Web Scraping -> https://github.com/antoniocruzds/Web-Scraping
-- Machine Learning -> https://github.com/antoniocruzds/Machine-Learning
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=antoniocruzds&show_icons=true" alt="blurred-machine"/>
+</p>
 
 ### *Conecte-se comigo:*
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -37,4 +39,6 @@ Sinta-se livre para dar dicas ou comentários, estou sempre aberto a aprender e 
 [linkedin]: https://linkedin.com/in/antoniocruzds
 
 ---
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=antoniocruzds" alt="antoniocruzds" /> </p>
 ### <p align="center">*OBRIGADO PELA VISITA!*</p>
