@@ -2,7 +2,7 @@
 <p align="center">
 Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antoniocruzds" alt="antoniocruzds" /> </p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" />
 
 - 💻 Aprendiz de Data Science;
 - 📚 Sempre buscando conhecimento;
