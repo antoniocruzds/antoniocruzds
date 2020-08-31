@@ -21,6 +21,7 @@ Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</
 
 ---
 <br>
+
  ### <p align="center">*Meus Projetos:*<p/>
  - Análise de Dados -> https://github.com/antoniocruzds/Data-Analysis
  - Web Scraping -> https://github.com/antoniocruzds/Web-Scraping
