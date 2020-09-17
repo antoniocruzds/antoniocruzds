@@ -28,12 +28,8 @@ Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antoniocruznb)]
-
-
 <p align="center">
- [![Antoniocruznb github stats](https://github-readme-stats.vercel.app/api?username=antoniocruznb&show_icons=true&theme=radical)](https://github.com/antoniocruznb/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antoniocruzds&show_icons=true&theme=vue)]
 </p>
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
