@@ -27,10 +27,10 @@ Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</
  - Machine Learning -> https://github.com/antoniocruzds/Machine-Learning
 
 ---
-
 <p align="center">
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antoniocruzds&show_icons=true&theme=vue)
+<img src="https://github-readme-stats.vercel.app/api?username=antoniocruzds&show_icons=true&theme=vue" alt="antoniocruzds"/>
 </p>
+
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
