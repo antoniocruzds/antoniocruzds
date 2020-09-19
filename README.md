@@ -5,10 +5,11 @@ Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" />
 
 - 💻 Aprendiz de Data Science;
-- 📚 Sempre buscando novos conhecimentos;
+
 - ☕ Apaixonado por Café e animais;
 - 📋 Voluntário no ensino de Programação;
-- 💬 Pergunte-me sobre qualquer coisa que você quiser!
+- 📚 Sempre em busca de novos conhecimentos;
+- 💬 Pergunte-me sobre qualquer coisa que você quiser;
 - 🎓 Graduando em Ciência, Tecnologia, e Inovação (UFBA);
 
 ### *Languages and Tools:*
