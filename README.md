@@ -44,5 +44,5 @@ Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</
 
 ---
 
-*<p align="center">Por favor, sinta-se livre para clonar projetos e levantar problemas se você acha que algo poderia ser melhor.</p>*
+*<p align="center">Por favor, sinta-se livre para clonar projetos e deixar seu feedback. Sempre podemos melhorar...</p>*
 ### <p align="center">- - - - - - *OBRIGADO PELA VISITA!* - - - - - -</p>
