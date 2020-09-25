@@ -5,7 +5,7 @@ Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" />
 
 - 💻 Aprendiz de Data Science;
-- ☕ Apaixonado por Café e animais;
+- ☕ Apaixonado por Café e Animais;
 - 📋 Voluntário no ensino de Programação;
 - 📚 Sempre em busca de novos conhecimentos;
 - 💬 Pergunte-me sobre qualquer coisa que você quiser;
@@ -21,7 +21,7 @@ Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</
 
 ---
 
- ### <p align="center">*Meus Projetos:*<p/>
+ ### <p align="center">*Meus Projetos*<p/>
  - Web Scraping -> https://github.com/antoniocruzds/Web-Scraping
  - Análise de Dados -> https://github.com/antoniocruzds/Data-Analysis
  - Machine Learning -> https://github.com/antoniocruzds/Machine-Learning
