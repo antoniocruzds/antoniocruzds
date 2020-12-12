@@ -21,23 +21,18 @@ Um aprendiz cada vez mais apaixonado pelo mundo da Ciência de Dados</p>*
 
 ---
 
+[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
- ### <p align="left">*Meus Projetos:*<p/>
- - Web Scraping -> https://github.com/antoniocruzds/Web-Scraping
- - Análise de Dados -> https://github.com/antoniocruzds/Data-Analysis
- - Machine Learning -> https://github.com/antoniocruzds/Machine-Learning
+[<img align="venter" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="right" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="right" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="right" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Antoniocruzds
 [instagram]: https://instagram.com/Antoniocruz.ds
 [linkedin]: https://linkedin.com/in/antoniocruzds
 
----
 
 *<p align="center">Por favor, sinta-se livre para clonar projetos e deixar seu feedback. Sempre podemos melhorar...</p>*
 ### <p align="center">- - - - - - *OBRIGADO PELA VISITA!* - - - - - -</p>
+
+---
