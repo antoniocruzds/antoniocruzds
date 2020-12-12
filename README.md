@@ -1,4 +1,4 @@
-## <p align="center">*OI, PODE ME CHAMAR DE NETO. 👋*</p>
+# <p align="center">*OI, PODE ME CHAMAR DE NETO. 👋*</p>
 *<p align="center">
 Um aprendiz cada vez mais apaixonado pelo mundo da Ciência de Dados</p>*
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antoniocruzds" alt="antoniocruzds" /> </p>
@@ -11,7 +11,7 @@ Um aprendiz cada vez mais apaixonado pelo mundo da Ciência de Dados</p>*
 - 💬 Pergunte-me sobre qualquer coisa que você quiser;
 - 🎓 Graduando em Ciência, Tecnologia, e Inovação (UFBA);
 
-### *Languages and Tools:*
+## *Languages and Tools:*
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="Colab" width="26px" src="https://github.com/beafreitasx/beafreitasx/blob/master/colab_favicon_256px.png" />
@@ -21,17 +21,16 @@ Um aprendiz cada vez mais apaixonado pelo mundo da Ciência de Dados</p>*
 
 ---
 
- ### <p align="center">*Meus Projetos*<p/>
+ ## <p align="center"> - - - - *Meus Projetos* - - - - <p/>
  - Web Scraping -> https://github.com/antoniocruzds/Web-Scraping
  - Análise de Dados -> https://github.com/antoniocruzds/Data-Analysis
  - Machine Learning -> https://github.com/antoniocruzds/Machine-Learning
 
+[<img align="right" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="right" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="right" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Antoniocruzds
 [instagram]: https://instagram.com/Antoniocruz.ds
