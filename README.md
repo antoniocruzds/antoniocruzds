@@ -2,7 +2,7 @@
 *<p align="center">
 Um aprendiz cada vez mais apaixonado pelo mundo da Ciência de Dados</p>*
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antoniocruzds" alt="antoniocruzds" /> </p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" />
 
 - 💻 Aprendiz de Data Science;
 - ☕ Apaixonado por Café e Animais;
@@ -26,17 +26,12 @@ Um aprendiz cada vez mais apaixonado pelo mundo da Ciência de Dados</p>*
  - Análise de Dados -> https://github.com/antoniocruzds/Data-Analysis
  - Machine Learning -> https://github.com/antoniocruzds/Machine-Learning
 
----
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=antoniocruzds&show_icons=true&theme=vue" alt="antoniocruzds"/>
-</p>
 
+[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Antoniocruzds
 [instagram]: https://instagram.com/Antoniocruz.ds
