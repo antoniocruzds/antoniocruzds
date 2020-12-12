@@ -21,7 +21,7 @@ Um aprendiz cada vez mais apaixonado pelo mundo da Ciência de Dados</p>*
 
 ---
 
-
+---
 [<img align="right" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="right" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
